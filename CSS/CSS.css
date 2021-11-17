@@ -1,5 +1,9 @@
 
-
+footer{
+    position: fixed;
+    bottom:0;
+    text-align: center;
+}
 .logo {  
         margin: 7px 0 0 0;
          float: left; 
