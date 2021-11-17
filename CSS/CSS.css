@@ -68,20 +68,37 @@ body {
     color: grey
 }
 .bodyuc{
+    position: fixed;
     height: 100%;
     width: 100%;
-    background-image: url(../img/under-construction.gif);
+    background-image: url(../img/under-construction.gif) ;
     background-color: black;
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
+
 }
 .uccentertext{
-    color:black;
+    color:rgb(223, 19, 19);
     text-decoration-color: black;
     position:fixed;
-    top:49%;
-    left:47%;
+    bottom:20%;
+    left:38%;
+    
+}
+.uccentertext:hover{
+    color:burlywood;
+}
+
+
+.uccentertext a{
+    color:rgb(11, 13, 14);
+    font-size: 30px;
+}
+.uccentertext a:hover{
+    color:rgb(243, 0, 0);
+    font-size: 40px;
+    font-style: italic;
 }
 #sidebar {
     width: 20%;
