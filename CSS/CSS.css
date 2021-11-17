@@ -67,7 +67,22 @@ header{
 body {
     color: grey
 }
-
+.bodyuc{
+    height: 100%;
+    width: 100%;
+    background-image: url(../img/under-construction.gif);
+    background-color: black;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.uccentertext{
+    color:black;
+    text-decoration-color: black;
+    position:fixed;
+    top:49%;
+    left:47%;
+}
 #sidebar {
     width: 20%;
     padding: 10px;
