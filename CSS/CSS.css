@@ -97,27 +97,16 @@ li a:hover {
     font-size: 20px
 }
 
-#red {
-    color: #e94545d7
-}
-
-#teal {
-    color: rgb(69, 129, 129)
-}
-
-#blue {
-    color: #0000ff
-}
 
 .card {
     width: 250px;
     display: inline-block;
-    height: 300px
+    height: 340px
 }
 
 .card-img-top {
     width: 250px;
-    height: 210px
+    height: 200px
 }
 
 .card-body p {
@@ -147,7 +136,7 @@ li a:hover {
     .card {
         width: 190px;
         display: inline-block;
-        height: 300px
+        height: 340px
     }
 
     .card-img-top {
